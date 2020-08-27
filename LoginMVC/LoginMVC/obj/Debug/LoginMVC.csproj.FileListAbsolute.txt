@@ -80,3 +80,4 @@ C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csproj
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csproj.CopyComplete
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.dll
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.pdb
+C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csprojAssemblyReference.cache
