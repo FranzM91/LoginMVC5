@@ -51,6 +51,8 @@ C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\roslyn\vbc.rsp
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Antlr3.Runtime.dll
+C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\EntityFramework.dll
+C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.WebPages.D
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.WebPages.dll
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\WebGrease.dll
+C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\EntityFramework.xml
+C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.Helpers.xml
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.Mvc.xml
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.Optimization.xml
@@ -72,7 +76,6 @@ C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\System.Web.WebPages.R
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Newtonsoft.Json.xml
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Antlr3.Runtime.pdb
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csprojAssemblyReference.cache
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csproj.CoreCompileInputs.cache
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csproj.CopyComplete
 C:\Users\FM\Desktop\GitHub\LoginMVC5\LoginMVC\LoginMVC\obj\Debug\LoginMVC.dll

@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "UserDashBoard";
+}
+
+<h2>UserDashBoard</h2>
+
+@using (Html.BeginForm("ClearSession", "Login", FormMethod.Post))
+{
+    <fieldset>
+        <legend> User DashBoard </legend>
+
+        @if (Session["UserName"] != null)
+        {
+            <text> Welcome @Session["UserName"].ToString() </text>
+        }
+    </fieldset>
+    <td>
+        <input type="submit" value="Clear Session" />
+    </td>
+}
