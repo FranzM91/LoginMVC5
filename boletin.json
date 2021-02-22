@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1003,
+        "Nombre": "“Jehová de los ejércitos, Dios de Israel, que moras entre los querubines, sólo tú eres Dios de todos los reinos de la tierra; tú hiciste los cielos y la tierra” (Isa. 37:16).",
+        "FechaCreacion": "2021-02-13T00:00:00",
+        "UrlImage": "https://1.bp.blogspot.com/-C0wZI0jev6E/X-XwtkYFbsI/AAAAAAAARCA/T6tlnHBe42EedHh8tkrBBZ4tjC6-W6FUACLcBGAsYHQ/s0/LES-21-1T-07.jpg",
+        "Descripcion": "Lección 7",
+        "Anuncios": [
+            {
+                "Id": 6,
+                "Descripcion": "¡Bienvenidos a los Diez Días de Oración 2021! Creemos que la oración es el lugar de nacimiento del reavivamiento. Dios ha obrado tantos milagros los pasados años mientras lo buscamos a través del ayuno y oración. El Espíritu Santo ha provocado conversiones, una pasión renovada por el evangelismo, iglesias revividas y relaciones curadas.",
+                "UrlVideo": "JFTWzHZL7FA",
+                "UrlImg": "https://revista.adventista.es/wp-content/uploads/sites/2/2021/01/10-dias-de-oracio%CC%81n.jpg",
+                "Icon": null,
+                "Departamento": "Evangelismo",
+                "DescDpto": "Adventist"
+            }
+        ]
+    },
+    {
+        "Id": 1002,
+        "Nombre": " “Y que el reino, y el dominio y la majestad de los reinos debajo de todo el cielo, sea dado al pueblo de los santos del Altísimo, cuyo reino es Reino eterno, y todos los dominios le servirán y obedecerán” (Dan. 7:27).",
+        "FechaCreacion": "2021-02-06T00:00:00",
+        "UrlImage": "https://i0.wp.com/www.lecciondeescuelasabatica.org/wp-content/uploads/2020/02/FUERON-PUESTOS-TRONOS.jpg?fit=512%2C349&ssl=1",
+        "Descripcion": "Lección 8",
+        "Anuncios": [
+            {
+                "Id": 5,
+                "Descripcion": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
+                "UrlVideo": "4BUmzEddomw",
+                "UrlImg": "https://1.bp.blogspot.com/-Ho_RfWCu3LQ/XgctXxfp6sI/AAAAAAAAM7k/3rqAKtAAPmMPbLh6UrkDjSTO-jXqKTGggCLcBGAsYHQ/s1600/LES-20-1T-03.jpg",
+                "Icon": "https://cdn.icon-icons.com/icons2/1754/PNG/128/iconfinder-musicmelodysoundaudio04-4105577_113862.png",
+                "Departamento": "Sonido",
+                "DescDpto": "None 001"
+            }
+        ]
+    }
+]
